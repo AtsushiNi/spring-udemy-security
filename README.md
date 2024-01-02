@@ -6,6 +6,8 @@
 
 2. localhost:8080にアクセス
 
+https://github.com/AtsushiNi/spring-udemy-security/assets/45954308/da1fe806-d4be-4d5b-bea7-142553c3e08f
+
 # 使用バージョン
 以下コマンドで確認可能
 ```
