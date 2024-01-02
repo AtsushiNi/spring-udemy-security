@@ -12,5 +12,5 @@
 ./gradlew dependencies
 ```
 
-- Spring Boot: 2.5.6
-- Spring Security: 5.5.3 
+- Spring Boot: 2.7.0
+- Spring Security: 5.7.1 
